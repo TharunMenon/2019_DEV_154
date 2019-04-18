@@ -7,3 +7,20 @@
 //
 
 import Foundation
+
+final class BowlingController {
+    
+    // MARK: - Function to call each time when ball rolled
+    
+    func ballroll(_ pins: Int) {
+        
+    }
+    
+    // MARK: - Function to get total score
+    
+    func toatalscore() -> Int {
+        
+        return 0
+    }
+    
+}
